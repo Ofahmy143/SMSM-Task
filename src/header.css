@@ -1,0 +1,23 @@
+.head{
+    background-color: aliceblue;
+    margin-top: 0;
+    border: 2px solid silver;
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    padding-left: 10px;
+}
+.links{
+    margin-top: 3%;
+    margin-left: 60%;
+    margin-bottom: 3%;
+
+}
+a{
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+
+    color: black   ;
+}
