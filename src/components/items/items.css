@@ -1,0 +1,31 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    /* position: relative; */
+    border: 2px solid blue;
+    height: 125px;
+    align-items: center;
+    gap: 5px
+}
+
+.title{
+    font-family: Helvetica;
+    font-size: 1.1vw;
+    margin-top: -2px;
+    margin-bottom: -10px;
+
+}
+#del{
+
+    /* border: 2px solid purple; */
+    height: 30px;
+    margin-left: auto;
+    margin-top: 0;
+}
+.priority{
+
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+
+
+}
